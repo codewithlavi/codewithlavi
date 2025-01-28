@@ -7,8 +7,7 @@
  
 ### 💻Stack Tecnológico <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  :
 <span> 
- <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,11 +21,10 @@
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a>
   
-
 </span>
   
 </p>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30"/> </a> 
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
     &emsp;
     
@@ -124,18 +122,16 @@
                 <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
                 <br>
                 <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
-                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
             </td>
-        </tr>
-    </tbody>
-</table>
-</p
+           </tr>
+         </tbody>
+        </table>
 
 ## Mis estadísticas de 📊 GitHub :
 ![](https://github-readme-stats.vercel.app/api?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithlavi&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
+---
 [![](https://visitcount.itsvg.in/api?id=codewithlavi&icon=0&color=3)](https://visitcount.itsvg.in)
 
