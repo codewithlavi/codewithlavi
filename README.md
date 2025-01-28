@@ -1,5 +1,5 @@
- <p align='center'> <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="150" height="150" frameBorder="150" class="giphy-embed" allowFullScreen></img></p>
- <h1 align="center"> 🎓  I'm Lavinia and I’m currently studying: Multi-platform Application Development (2º D.A.M) at DigitechFP.
+ 
+  🎓  I'm Lavinia and I’m currently studying: Multi-platform Application Development (2º D.A.M) at DigitechFP.
     
   Tech Stack💻 :
   <span> 
@@ -34,8 +34,14 @@
    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>  
   </span>
-  </p>
+<div align="center">
+<h3 align="center">Visitor Count: </h3> 
 
+![Visitor Count](https://profile-counter.glitch.me/codewithlavi/count.svg)
+
+ </div>
+
+  
 ### A.I and Machine Learning 🤖 :
 <br>
 <p align='center'>
@@ -65,6 +71,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithlavi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-  <!-- Visitor count --> 
-   ![Visitor Count](https://profile-counter.glitch.me/codewithlavi/count.svg)
 
