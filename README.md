@@ -1,8 +1,8 @@
  <p align='center'> <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
  <h1 align="center"> Hi there 👋, I'm Lavinia </h1>
-  Soy estudiante en 2º de Desarollo Aplicaciones Multiplataforma en DigiTech F.P y apasionada del mundo tecnológico.
+   Soy estudiante en 2º de Desarollo Aplicaciones Multiplataforma en DigiTech F.P y apasionada del mundo tecnológico.
  <p align='center'>
-🚀¡Estoy abierta a colaborar en nuevos proyectos y si son de Ciberseguridad mejor aún ,sera un desafio personal y profesional! 🚀
+ 🚀¡Estoy abierta a colaborar en nuevos proyectos y si son de Ciberseguridad mejor aún ,sera un desafio personal y profesional! 🚀
  
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 40px> </picture> 
   Tech Stack💻 :
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
+   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
@@ -48,7 +49,7 @@
 </p>
 <br>
   
-### IOT 🔌 :
+### Internet of Things 🔌 :
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
