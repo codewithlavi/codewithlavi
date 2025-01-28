@@ -9,7 +9,9 @@
 <span> 
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,6 +19,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -77,17 +81,15 @@
         <tr>
             <td align="left">⚪ General</td>
             <td> 
-    <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
+    
                 <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
-            </td>
-            <td>
+            
+         
                 <img src="https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=flat&logo=opnsense&logoColor=white" alt="OPNSense">
-            </td>
-            <td></td>
-        </tr>
-        <tr>
+            
+          
+       
+    
             <td align="left">🔴 Red Team</td>
             <td>
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
@@ -108,23 +110,12 @@
                 <tr>
             <td align="left">🔵 Blue Team</td>
             <td>
-                 <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
-                <img src="https://img.shields.io/badge/IBM MaaS360-%23052FAD.svg?style=flat&logo=IBM&logoColor=white" alt="IBM MaaS360">
-                <br>
-                <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
-                <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/IRIS-%230E316A.svg?style=flat&logo=suricata&logoColor=white" alt="Iris">
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
+                 
+           
+                
                 <br>
                 <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
-            </td>
-           </tr>
-         </tbody>
-        </table>
+           
 
 ## Mis estadísticas de 📊 GitHub :
 ![](https://github-readme-stats.vercel.app/api?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
