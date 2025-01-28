@@ -1,10 +1,6 @@
- <p align='center'> <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
- <h1 align="center"> Hi there 👋, I'm Lavinia </h1>
-   Soy estudiante en 2º de Desarollo Aplicaciones Multiplataforma en DigiTech F.P y apasionada del mundo tecnológico.
-    <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/codewithlavi"> -->
-  <p align='center'>
- 🚀¡Estoy abierta a colaborar en nuevos proyectos y si son de Ciberseguridad mejor aún ,sera un desafio personal y profesional! 🚀
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 40px> </picture> 
+ <p align='center'> <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="150" height="150" frameBorder="150" class="giphy-embed" allowFullScreen></img></p>
+ <h1 align="center"> 🎓  I'm Lavinia and I’m currently studying: Multi-platform Application Development (2º D.A.M) at DigitechFP.
+    
   Tech Stack💻 :
   <span> 
   <p align='center'>
@@ -13,8 +9,8 @@
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-   <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
-   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
@@ -35,6 +31,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>  
   </span>
   </p>
@@ -62,11 +59,12 @@
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> 
 </p>
 <br>
-
 <p align="center">
 <a href="https://github.com/codewithlavi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithlavi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+  <!-- Visitor count --> 
+   ![Visitor Count](https://profile-counter.glitch.me/codewithlavi/count.svg)
 
