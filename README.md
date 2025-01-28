@@ -2,13 +2,15 @@
  Sobre mí:
  <p align='center'>
   Soy Lavinia y soy estudiante en 2º de Desarollo Aplicaciones Multiplataforma en DigiTech F.P y apasionada del mundo tecnológico.
-<p align='center'>
+ <p align='center'>
 🚀¡Estoy abierta a colaborar en nuevos proyectos y si son de Ciberseguridad mejor aún ,sera un desafio personal y profesional! 🚀
  
-### 💻Stack Tecnológico <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  :
+ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 40px> </picture> 
+  Tech Stack💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  :
 <span> 
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white">
@@ -32,7 +34,6 @@
 </span>
     
  ### IDEs:
- 
 <p align="center">  
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a
   &emsp;
@@ -67,61 +68,10 @@
 </p>
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> CiberSeguridad
-<table>
-    <thead align="center">
-        <tr>
-            <th></th>
-            <th>✅<br>Experienced labs</th>
-            <th>🔁<br>Practicing labs</th> 
-            <th>🆕<br> Purple Team Tools</th>
-        </tr>
-    </thead>
-    <tbody align="center">
-        <tr>
-            <td align="left">⚪ General</td>
-            <td> 
-    
-                <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
-            
-         
-                <img src="https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=flat&logo=opnsense&logoColor=white" alt="OPNSense">
-            
-          
-       
-    
-            <td align="left">🔴 Red Team</td>
-            <td>
-                <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
-                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
-                <br>
-                <img src="https://img.shields.io/badge/Nessus-%23061E42.svg?style=flat&logo=nessus&logoColor=white" alt="Nessus">
-                <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
-            </td>
-            <td></td>
-            <td>
-                <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
-                <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
-                <br>
-                <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
-                <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=zap&logoColor=white" alt="OWASP ZAP">
-                </td>
-                </tr>
-                <tr>
-            <td align="left">🔵 Blue Team</td>
-            <td>
-                 
-           
-                
-                <br>
-                <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
-           
-
-## Mis estadísticas de 📊 GitHub :
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithlavi&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=codewithlavi&icon=0&color=3)](https://visitcount.itsvg.in)
 
