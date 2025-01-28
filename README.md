@@ -1,16 +1,17 @@
  
-  🎓  I'm Lavinia and I’m currently studying: Multi-platform Application Development (2º D.A.M) at DigitechFP.
+  🎓  I'm Lavinia and I’m currently studying: Multi-Platform Application Development (2º D.A.M) at DigitechFP.
     
   Tech Stack💻 :
   <span> 
   <p align='center'>
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50"/>
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="50"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.icons8.com/color/48/000000/console.png" width="35" alt="Console logo"/>
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
