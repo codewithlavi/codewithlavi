@@ -59,10 +59,10 @@
 </p>
 <br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithlavi&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlavi&theme=prussian&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=codewithlavi&icon=0&color=3)
+<p align="center">
+<a href="https://github.com/codewithlavi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithlavi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
