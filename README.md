@@ -1,9 +1,9 @@
  <p align='center'> <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
  <h1 align="center"> Hi there 👋, I'm Lavinia </h1>
    Soy estudiante en 2º de Desarollo Aplicaciones Multiplataforma en DigiTech F.P y apasionada del mundo tecnológico.
- <p align='center'>
+    <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/codewithlavi"> -->
+  <p align='center'>
  🚀¡Estoy abierta a colaborar en nuevos proyectos y si son de Ciberseguridad mejor aún ,sera un desafio personal y profesional! 🚀
- 
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 40px> </picture> 
   Tech Stack💻 :
   <span> 
