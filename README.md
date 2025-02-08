@@ -6,17 +6,17 @@
   <!-- Typing Text -->
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
-  <h3> :woman: &nbsp;About Me : </h3>
+  <h2> :woman: &nbsp;About Me : </h2>
 
 🎓  I’m currently studying Multi-platform Application Development (DAM) at DigitechFP .
 
 💡 I like to explore new technologies and develop software solutions and quick hacks.
   I also play CTF's in my spare time.
  </p> 👯💻 I am looking forward to new opportunities in IT industry and also to collaborate on challenging projects. I am eager to learn from experienced professionals
-   <a href="https://t.me/codewithlavi">
-  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
+ <h3> <a href="https://t.me/codewithlavi">
+  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" /></h3>
 
- </p>  📫 Reach me at : lavinia_bacaru@protonmail.com
+ 📫 E-mail: lavinia_bacaru@protonmail.com
  
   ### Tech Stack I work with:
   <span> 
