@@ -13,6 +13,9 @@
 💡 I like to explore new technologies and develop software solutions and quick hacks.
   I also play CTF's in my spare time.
  </p> 👯💻 I am looking forward to new opportunities in IT industry and also to collaborate on challenging projects. I am eager to learn from experienced professionals
+   <a href="https://t.me/codewithlavi">
+  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
+
  </p>  📫 Reach me at : lavinia_bacaru@protonmail.com
  
   ### Tech Stack I work with:
