@@ -12,12 +12,20 @@
 
 💡 I like to explore new technologies and develop software solutions and quick hacks.
   I also play CTF's in my spare time.
- </p> 👯💻 I am looking forward to new opportunities in IT industry and also to collaborate on challenging projects. I am eager to learn from experienced professionals
- <h3> <a href="https://t.me/codewithlavi">
-  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" /></h3>
+  </p> 👯💻 I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
+   <p style="display: flex; align-items: center; margin: 0;">
+  Reach me:
+  <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
+  </a>
+  <a href="https://t.me/codewithlavi" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
+  </a>
+  </p>
 
- 📫 E-mail: lavinia_bacaru@protonmail.com
- 
+
+
+  
   ### Tech Stack I work with:
   <span> 
   <p align='center'>
