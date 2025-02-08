@@ -1,7 +1,7 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
-
+<div style="background-color: black; color: white;">
   <!-- Welcome -->
-  <div style="background-color: black; color: white; padding: 20px;">
+  
  <h1  align="center">Hi,I'm Lavinia  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
   <!-- Typing Text -->
@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
   </a>
   </p>
-
-
 
   
   ### Tech Stack I work with:
@@ -101,5 +99,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithlavi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 </div>
