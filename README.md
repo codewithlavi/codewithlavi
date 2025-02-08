@@ -1,19 +1,20 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 
   <!-- Welcome -->
-<h1  align="center">Hi,I'm Lavinia Bacaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1  align="center">Hi,I'm Lavinia  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
   <!-- Typing Text -->
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
+<h3> :woman: &nbsp;About Me : </h3>
 
-   🎓  I’m currently studying: Multi-platform Application Development (DAM) at DigitechFP .
+🎓  I’m currently studying: Multi-platform Application Development (DAM) at DigitechFP .
 
 💡 I like to explore new technologies and develop software solutions and quick hacks.
   I do play CTF's in my spare time.
- </p> 👯💻 I’m looking forward to collaborate in Open Source projects.
+ </p> 👯💻 I’m looking forward to collaborate in new projects.
  
-  ### Tech Stack :
+  ### Tech Stack I work with:
   <span> 
   <p align='center'>
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
