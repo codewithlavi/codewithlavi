@@ -8,13 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
   <h2> :woman: &nbsp;About Me : </h2>
 
-🎓  I’m currently studying Multi-platform Application Development (DAM) at DigitechFP .
+ I’m currently studying Multi-platform Application Development (2º DAM) at DigitechFP .
 
-💡 I like to explore new technologies and develop software solutions and quick hacks.
-  I also play CTF's in my spare time.
-  </p> 👯💻 I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
+  I like to explore new technologies and develop software solutions and quick hacks.
+  
+  </p> I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
+  
    <p style="display: flex; align-items: center; margin: 0;">
-  Reach me:
+     
+ 📫💻 Reach me:
   <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
   </a>
