@@ -9,10 +9,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
   <h2> :woman: &nbsp;About Me : </h2>
 
- I’m currently studying Multi-platform Application Development (2º DAM) at DigitechFP .
+ I’m currently studying Multi-platform Application Development (2º DAM) at DigitechFP in Málaga,Spain .
+ <p align="left"> I´m focused on learning Java but I'm also diving deeper into SQL and JavaScript.
 
   I like to explore new technologies and develop software solutions and quick hacks.
   
+ <p align="left"> 🏆 My certifications: Google Cybersecurity Certificate🏆
+
   </p> I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
   
    <p style="display: flex; align-items: center; margin: 0;">
