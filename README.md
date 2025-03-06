@@ -10,11 +10,11 @@
   <h2> :woman: &nbsp;About Me : </h2>
 
  I’m currently studying Multi-platform Application Development (2º DAM) at DigitechFP in Málaga,Spain .
- <p align="left"> I´m focused on learning Java but I'm also diving deeper into SQL and JavaScript.
+ <p align="left"> I´m focused on learning Java and also diving deeper into SQL and JavaScript.
 
   I like to explore new technologies and develop software solutions and quick hacks.
   
- <p align="left"> 🏆 My certifications: Google Cybersecurity Certificate🏆
+ <p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
 
   </p> I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
   
