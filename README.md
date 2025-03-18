@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
   <h2> :woman: &nbsp;About Me : </h2>
 
- I’m currently studying Multi-platform Application Development (2º DAM) at DigitechFP in Málaga,Spain .
+ I’m currently studying Multi-platform Application Development (2º DAM) .
  <p align="left"> I´m focused on learning Java and also diving deeper into SQL and JavaScript.
 
   I like to explore new technologies and develop software solutions and quick hacks.
