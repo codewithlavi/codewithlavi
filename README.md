@@ -6,7 +6,7 @@
 
   <!-- Typing Text -->
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Full+Stack+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Software+Developer.">
   <h2> :woman: &nbsp;About Me : </h2>
 
  I’m currently studying Multi-platform Application Development (2º DAM) .
