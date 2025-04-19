@@ -11,8 +11,6 @@
 
  I’m currently studying Multi-platform Application Development (2º DAM) .
  <p align="left"> I´m focused on learning Python,Machine Learning also Java, SQL and JavaScript.
-
-  I like to explore new technologies and develop software solutions and quick hacks.
   
  <p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
 
