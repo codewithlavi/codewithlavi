@@ -6,10 +6,10 @@
 
   <!-- Typing Text -->
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Junior+Software+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Software+Developer.">
   <h2> :woman: &nbsp;About Me : </h2>
-
- I’m currently studying Multi-platform Application Development (2º DAM) .
+  I am always enthusiastic about computer science and technology.
+  From technical support I jumped to software engineering and now I'm finishing 2º year of Multi-platform Application Development @DigiTech F.P
  <p align="left"> I´m focused on learning Python,Machine Learning also Java, SQL and JavaScript.
   
  <p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
