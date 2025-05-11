@@ -10,7 +10,7 @@
   <h2> :woman: &nbsp;About Me : </h2>
   I am always enthusiastic about computer science and technology.
   From technical support I jumped to software engineering and now I'm finishing 2º year of Multi-platform Application Development @DigiTech F.P
- <p align="left"> I´m focused on learning Python,Machine Learning also Java, SQL and JavaScript.
+ <p align="left"> I´m focused on learning Java,Python,Machine Learning.
   
  <p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
 
