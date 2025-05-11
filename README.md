@@ -10,7 +10,7 @@
   <h2> :woman: &nbsp;About Me : </h2>
   I am always enthusiastic about computer science and technology.
   From technical support I jumped to software engineering and now I'm finishing 2º year of Multi-platform Application Development @DigiTech F.P
- <p align="left"> I´m focused on learning Java,Python,Machine Learning.
+ <p align="left"> I´m focused on learning 💻 Java,Python,Machine Learning.
   
  <p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
 
@@ -18,7 +18,7 @@
   
    <p style="display: flex; align-items: center; margin: 0;">
      
- 📫💻 Reach me:
+ 📫 Reach me:
   <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
   </a>
