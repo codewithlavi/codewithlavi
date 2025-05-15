@@ -72,18 +72,7 @@
  </div>
 
   
-### A.I and Machine Learning 🤖 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
+
   
 ### Internet of Things 🔌 :
 <br>
