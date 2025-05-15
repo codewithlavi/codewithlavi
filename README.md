@@ -73,17 +73,7 @@
 
   
 
-  
-### Internet of Things 🔌 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
- <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)" /></a> 
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> 
-</p>
-<br>
+
 <p align="center">
 <a href="https://github.com/codewithlavi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
