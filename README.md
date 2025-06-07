@@ -1,12 +1,10 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Lavinia%20Bacaru%20(codewithlavi)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Software%20Developer%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
-
- 
-  <h2> 👩‍💻 &nbsp;About Me : </h2>
+  <h2> 👩‍💻 &nbsp;About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; : </h2>
 I have always been passionate about Computer science and technology.
     
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
