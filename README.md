@@ -1,12 +1,11 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
-<div style="background-color: black; color: white;">
-  <!-- Welcome -->
-  
- <h1  align="center">Hi,I'm Lavinia  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Lavinia%20Bacaru%20(codewithlavi)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 
-  <!-- Typing Text -->
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Software+Developer.">
+ 
   <h2> 👩‍💻 &nbsp;About Me : </h2>
 I have always been passionate about Computer science and technology.
     
