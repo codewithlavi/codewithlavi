@@ -5,7 +5,6 @@
   alt="header"/>
 </div>
   <h2> 👩‍💻 &nbsp;About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; : </h2>
-I have always been passionate about Computer science and technology.
     
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
   
@@ -17,10 +16,10 @@ I have always been passionate about Computer science and technology.
   
    <p style="display: flex; align-items: center; margin: 0;">
      
- 📫 Reach me:
-  <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
+ 📫 Contact: <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
-  </a>
+  </a> lavinia_bacaru@protonmail.com
+  
   <a href="https://t.me/codewithlavi" style="margin-left: 10px;">
   <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
   </a>
