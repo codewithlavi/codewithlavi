@@ -18,10 +18,7 @@
      
  📫 Contact: <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
-  </a> lavinia_bacaru@protonmail.com
-  
-  <a href="https://t.me/codewithlavi" style="margin-left: 10px;">
-  <img src="https://img.shields.io/badge/Join%20Us%20on-Telegram-blue" alt="Join us on Telegram" />
+  </a> lavinia_bacaru@protonmail.com  
   </a>
   </p>
 
