@@ -65,10 +65,7 @@
    <p>
   </span>
 <div align="center">
-<h3 align="center">Visitor Count: </h3> 
-
-![Visitor Count](https://profile-counter.glitch.me/codewithlavi/count.svg)
-
+<h3 align="center">
  </div>
  
  <!-- FOOTER -->
